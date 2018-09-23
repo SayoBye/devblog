@@ -100,11 +100,12 @@ show-author: false
 # do you want some animations?
 animation: true
 
-plugins_dir:
+plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
